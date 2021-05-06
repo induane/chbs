@@ -1,0 +1,17 @@
+[package]
+name = "chbs"
+version = "0.1.0"
+authors = ["Brant Watson <oldspiceap@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "chbslib"
+path = "src/lib.rs"
+
+[[bin]]
+name = "chbs"
+path = "src/main.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
