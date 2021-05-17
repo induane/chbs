@@ -5,7 +5,7 @@ A simple password strength checker using raw entropy values written in Rust.
 Inspired by: https://github.com/wagslane/go-password-passwordvalidator and
 this [XKCD](https://xkcd.com/936/)
 
-[Crates.io](https://crates.io/crates/chbs_password_checker)
+Available on: [crates.io](https://crates.io/crates/chbs_password_checker)
 
 ## Benefits
 
