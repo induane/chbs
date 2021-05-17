@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["Brant Watson <oldspiceap@gmail.com>"]
 description = "Password Strength Checker"
 edition = "2018"
+readme = "README.md"
+homepage = "https://github.com/induane/chbs"
 
 [lib]
 name = "chbslib"
