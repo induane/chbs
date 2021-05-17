@@ -1,5 +1,5 @@
 [package]
-name = "chbs"
+name = "chbs-cli"
 version = "0.1.0"
 authors = ["Brant Watson <oldspiceap@gmail.com>"]
 description = "Password Strength Checker"
@@ -10,7 +10,7 @@ license = "MIT"
 keywords = ["entropy", "password", "strength"]
 
 [lib]
-name = "chbslib"
+name = "chbs-lib"
 path = "src/lib.rs"
 
 [[bin]]
