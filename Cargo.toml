@@ -1,5 +1,5 @@
 [package]
-name = "chbscli"
+name = "chbs_password_checker"
 version = "0.1.0"
 authors = ["Brant Watson <oldspiceap@gmail.com>"]
 description = "Password Strength Checker"
